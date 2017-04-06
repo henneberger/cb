@@ -1,0 +1,74 @@
+{
+  "messages": [
+    {
+      "sent_date": "2016-01-01T08:15:30-05:00",
+      "from": {
+        "name": "Joni Mitchell",
+        "email": "jmitchell@abab.us"
+      },
+      "to": [
+        {
+          "name": "Logan Lugar",
+          "email": "logan.lugar@circleback.com"
+        }
+      ],
+      "body": "<p>Hi,</p><div>&nbsp;</div><div>Below is the original email. .</div><div>&nbsp;</div><div></div><div>&nbsp;</div><div>Thanks,</div><div>&nbsp;</div><div>Darby Tino</div><div>President,Tino Corp</div><div><a href=\"mailto:dubtester31@gmail.com\" target=\"_blank\">dubtester31@gmail.com</a></div><div>cell: 222-232-4554</div><div>work: <a href=\"tel:352-333-4121\" target=\"_blank\">352-333-4121</a></div><div><br /><div class=\"gmail_extra\"><br /><div class=\"gmail_quote\">On Mon, Jul 4, 2016 at 2:43 PM, Joni Mitchell <span dir=\"ltr\">&lt;<a href=\"mailto:jmitchell@abab.us\" target=\"_blank\">jmitchell@abab.us</a>&gt;</span> wrote:<br /><blockquote class=\"gmail_quote\">Hi<br /><br />This is the original email. Make sure the date is changed in the reply<br />to see what get picked up by kafka.<br /><br />More words are here.&nbsp; And this is the end<br /><br />Thanks,<br /><br />Joni Mitchell<br />VP of Marketing, Abab Corp<br /><a href=\"mailto:jmitchell@abab.us\" target=\"_blank\">jmithchell@abab.us</a><br />office: 777-333-1029<br />mobile: 555-222-1212<br />fax: 222-344-9909</blockquote></div></div></div>"
+    },
+    {
+      "sent_date": "2016-01-01T08:15:30-05:00",
+      "from": {
+        "name": "John Smithers",
+        "email": "john.smithers@circleback.com"
+      },
+      "to": [
+        {
+          "name": "Logan Lugar",
+          "email": "logan.lugar@circleback.com"
+        }
+      ],
+      "body": "Dear Jane<br><br>Thank you for meeting yesterday. We were impresssed with the presentation and have started planning how we can work together on this project. <br><br>If you have any questions please call me any time. I look forward to this partnership.<br><br>Sincerely<br><b><font color=\"darkblue\">John Smithers</font></b><br><b><font color\"green\">Director</font><b><br>CircleBack Inc<br>http://www.circleback.com<br>Email:  john.smithers@circleback.com<br>Office: 555-232-9928 Ex. 1021<br>Fax:    555-232-1499 <br>Linkedin: www.linkedin.com/jsmithers1<br>Twitter: jsmithers2<br>Skype: jsmithers3<br>"
+    },
+    {
+      "sent_date": "2016-01-01T08:15:30-05:00",
+      "from": {
+        "name": "Roberta Adams, PhD, MD",
+        "email": "roberta.adams@circleback.com"
+      },
+      "to": [
+        {
+          "name": "Logan Lugar",
+          "email": "logan.lugar@circleback.com"
+        }
+      ],
+      "body": "Dear Jane<br><br>Thank you for meeting yesterday. We were impresssed with the presentation and have started planning how we can work together on this project. <br><br>If you have any questions please call me any time. I look forward to this partnership.<br><br>Sincerely<br><b><font color=\"darkblue\">Roberta Adams, PhD, MD</font></b><br><b><font color\"green\">Director</font><b><br>CircleBack Inc<br>http://www.circleback.com<br>Email:  roberta.adams@circleback.com<br>Work: 703-232-9928 Ex. 1021<br>Cell:    703-232-1499 <br>Linkedin: www.linkedin.com/robertaadams28<br>Twitter: @radams51551<br>Facebook: www.facebook.com/radams2913<br>123 Main St<br>Ste 252<br>New York NY 50101<br>"
+    },
+    {
+      "sent_date": "2016-01-01T08:15:30-05:00",
+      "from": {
+        "name": "Howard Turner",
+        "email": "hturner@abab.us"
+      },
+      "to": [
+        {
+          "name": "Logan Lugar",
+          "email": "logan.lugar@circleback.com"
+        }
+      ],
+      "body": "<p>Hi,</p><div>&nbsp;</div><div>Below is the original email. .</div><div>&nbsp;</div><div></div><div>&nbsp;</div><div>Thanks,</div><div>&nbsp;</div><div>Darby Tino</div><div>President,Tino Corp</div><div><a href=\"mailto:dubtester31@gmail.com\" target=\"_blank\">dubtester31@gmail.com</a></div><div>cell: 222-232-4554</div><div>work: <a href=\"tel:352-333-4121\" target=\"_blank\">352-333-4121</a></div><div><br /><div class=\"gmail_extra\"><br /><div class=\"gmail_quote\">On Mon, Jul 4, 2016 at 2:43 PM, Howard Turner <span dir=\"ltr\">&lt;<a href=\"mailto:hturner@abab.us\" target=\"_blank\">hturner@abab.us</a>&gt;</span> wrote:<br /><blockquote class=\"gmail_quote\">Hi<br /><br />This is the original email. Make sure the date is changed in the reply<br />to see what get picked up by kafka.<br /><br />More words are here.&nbsp; And this is the end<br /><br />Thanks,<br /><br />Howard Turner<br />Director of Advertising, Abab Corp<br /><a href=\"mailto:hturner@abab.us\" target=\"_blank\">hturner@abab.us</a><br />office: 414-293-0922<br />mobile: 980-394-9873<br />work: 623-493-7723</blockquote></div></div></div>"
+    },
+    {
+      "sent_date": "2016-01-01T08:15:30-05:00",
+      "from": {
+        "name": "John Jones",
+        "email": "jjones@abab.us"
+      },
+      "to": [
+        {
+          "name": "Logan Lugar",
+          "email": "logan.lugar@circleback.com"
+        }
+      ],
+      "body": "<p>Hi,</p><div>&nbsp;</div><div>Below is the original email. .</div><div>&nbsp;</div><div></div><div>&nbsp;</div><div>Thanks,</div><div>&nbsp;</div><div>Darby Tino</div><div>President,Tino Corp</div><div><a href=\"mailto:dubtester31@gmail.com\" target=\"_blank\">dubtester31@gmail.com</a></div><div>cell: 222-232-4554</div><div>work: <a href=\"tel:352-333-4121\" target=\"_blank\">352-333-4121</a></div><div><br /><div class=\"gmail_extra\"><br /><div class=\"gmail_quote\">On Mon, Jul 4, 2016 at 2:43 PM, Paul Zeller <span dir=\"ltr\">&lt;<a href=\"mailto:pzeller@abab.us\" target=\"_blank\">pzeller@abab.us</a>&gt;</span> wrote:<br /><blockquote class=\"gmail_quote\">Hi<br /><br />This is the original email. Make sure the date is changed in the reply<br />to see what get picked up by kafka.<br /><br />More words are here.&nbsp; And this is the end<br /><br />Thanks,<br /><br />John Jones<br />Director of Engineering, Abab Corp<br /><a href=\"mailto:jjones@@abab.us\" target=\"_blank\">jjones@abab.us</a><br />office: 123-511-6266<br />mobile: 123-588-1039<br /></blockquote></div></div></div>"
+    }
+  ]
+}
